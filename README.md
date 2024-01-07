@@ -23,6 +23,7 @@
 - [Atomic Design](http://atomicdesign.bradfrost.com/) ([Ebook](http://atomicdesign.bradfrost.com/table-of-contents/), [Blog post](https://bradfrost.com/blog/post/atomic-web-design/))
 
 ## Design system
+* [Acorn - the design system for Firefox](https://acorn.firefox.com)
 * [Atlassian Design Language](https://atlassian.design/)
 * [BBC Gel](http://www.bbc.co.uk/gel)
 * [Blackboard](http://design.blackboard.com/)
@@ -44,7 +45,6 @@
 * [mixpanel Design](http://mixpanel.github.io/mixpanel-common/examples/style-guide-new/)
 * [Nordnet](https://www.nordnet.se/brand/)
 * [OpenTable](http://brand.opentable.com/)
-* [Photon Design System (Firefox)](http://design.firefox.com/photon/welcome.html)
 * [Shopify Polaris](https://polaris.shopify.com/)
 * [Uber](https://brand.uber.com/)
 * [Ubuntu](http://design.ubuntu.com/apps/get-started/overview)
